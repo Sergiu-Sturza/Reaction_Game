@@ -1,2 +1,1 @@
-# Reaksjonspill
-Spillet består av to knapper, to led-pærer og en buzzer. Spilet er laget for to personer. Buzzeren skal pipe etter en stund. Den av spillerne som først trykker på knappen, etter at buzzeren har pepet får et poeng. Det finnes en 7 segment led for å vise antall poeng til hver spiller. Spilleren som trykker for tidlig få minuspoeng.
+Dette prosjektet er et reaksjonsspill for to spillere, bygget med Arduino. Etter en tilfeldig ventetid gir buzzeren et signal. Spilleren som trykker først etter signalet får poeng, mens spillere som trykker for tidlig får minuspoeng. Poengsummen vises på et roterende 7‑segment display slik at publikum kan følge stillingen.
